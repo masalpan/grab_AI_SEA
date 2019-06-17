@@ -213,4 +213,4 @@ Mean_auc_full
     ##      Decision_Tree
     ## [1,]      0.674928
 
-The best model is random forest.
+The best model is random forest. So we can use 'model_rf' for classify safety driver data.
